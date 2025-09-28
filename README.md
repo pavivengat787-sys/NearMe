@@ -145,14 +145,16 @@ hotel.html
         </body>
 </html>
 
+```
 
 ## OUTPUT
-c:\Users\acer\Pictures\Screenshots\Screenshot (24).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (25).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (26).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (27).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (28).png
-c:\Users\acer\Pictures\Screenshots\Screenshot (29).png
+
+![alt text](<Screenshot (24)-1.png>) 
+![alt text](<Screenshot (25)-1.png>) 
+![alt text](<Screenshot (26)-1.png>)
+![alt text](<Screenshot (27)-1.png>)
+![alt text](<Screenshot (28)-1.png>)
+![alt text](<Screenshot (29)-1.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
